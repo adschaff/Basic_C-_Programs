@@ -1,0 +1,15 @@
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net6.0\MyConsoleProject.cs.exe
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net6.0\MyConsoleProject.cs.deps.json
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net6.0\MyConsoleProject.cs.runtimeconfig.json
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net6.0\MyConsoleProject.cs.dll
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\bin\Debug\net6.0\MyConsoleProject.cs.pdb
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\MyConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\MyConsoleProject.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\MyConsoleProject.cs.AssemblyInfoInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\MyConsoleProject.cs.AssemblyInfo.cs
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\MyConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\MyConsoleProject.cs.dll
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\refint\MyConsoleProject.cs.dll
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\MyConsoleProject.cs.pdb
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\MyConsoleProject.cs.genruntimeconfig.cache
+C:\Users\alexs\OneDrive\Desktop\Basic_C#_Programs\MyConsoleProject.cs\MyConsoleProject.cs\obj\Debug\net6.0\ref\MyConsoleProject.cs.dll
